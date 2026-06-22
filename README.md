@@ -240,6 +240,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🗺️ <a name="location-services"></a>Location Services
 
+- [eugenelabonarsky/votura-mcp](https://github.com/eugenelabonarsky/votura-mcp) ☁️ - Search AI-generated self-guided audio city tours and points of interest by city across 500+ cities worldwide. Hosted Streamable HTTP endpoint. Powered by [votura.app](https://votura.app).
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - <img src="https://campertunity.com/assets/icon/favicon.ico" height="14"/> [Campertunity](https://github.com/campertunity/mcp-server) - Search campgrounds around the world on campertunity, check availability, and provide booking links
